@@ -4,7 +4,7 @@
 git clone --recurse-submodules git@github.com:Biboswan/mws-restaurant-stage-2.git
 ```
 
-## Go to the [readme](https://github.com/Biboswan/mws-restaurant-stage-1/tree/57280533abc94693dd8f306d3dbc748d0a5ea74d) of frontend to run the frontend server
+## Go to the [readme](https://github.com/Biboswan/mws-restaurant-stage-1/tree/230b9e238d7e495f7ebe1356d384228129e2fefa) of frontend to run the frontend server
 
 # Local Development API Server
 ## Usage
